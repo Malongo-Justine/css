@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    text-decoration: green underline;
+}
+.header{
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20;
+}
+body{
+    background: url(mj.jpg) no-repeat;
+    background-size: cover;
+}
+ul li {
+width: 80px;
+float: right;
+text-align: center;
+border: 2px solid red;
+background-color: black;
+opacity: 0.8;
+font-family: arial;
+padding: 7px;
+margin-right: 4px;
+}
+ul li a{background: none; color: white;}
+.text{ background-color: green;}
+ul li:hover{ background-color: green;}
